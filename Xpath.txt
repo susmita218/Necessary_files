@@ -1,0 +1,29 @@
+Xpath
+Salesforce
+Login: //*[@id='Login']
+Forgot pasword: //*[@id='forgot_password_link']
+
+
+Facebook
+Login: //*[@id='u_0_h_fq']
+
+
+===============================
+css
+facebook
+login: #u_0_h_fq
+
+
+salesforce
+forgot password: #forgot_password_link.fl.small
+error on wrong credential: div#error.loginError
+
+====
+
+<button value="1" class="_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy" name="login" data-testid="royal_login_button" type="submit" id="u_0_h_fq">Log In</button>
+
+input=tagname
+attributes- class
+value- inputtext
+
+//button[@type='submit']
