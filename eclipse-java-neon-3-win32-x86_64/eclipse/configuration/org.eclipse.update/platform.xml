@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config date="1489513933823" transient="false">
+<config date="1631645845560" transient="false">
 	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
 		<feature id="org.eclipse.epp.mpc" version="1.5.4.v20170222-1941" url="features/org.eclipse.epp.mpc_1.5.4.v20170222-1941/" plugin-identifier="org.eclipse.epp.mpc.ui">
 		</feature>
@@ -48,6 +48,8 @@
 		<feature id="org.eclipse.equinox.p2.discovery.feature" version="1.0.401.v20160901-1335" url="features/org.eclipse.equinox.p2.discovery.feature_1.0.401.v20160901-1335/">
 		</feature>
 		<feature id="org.eclipse.mylyn.git" version="1.13.0.v20160630-2022" url="features/org.eclipse.mylyn.git_1.13.0.v20160630-2022/" plugin-identifier="org.eclipse.mylyn.versions.core">
+		</feature>
+		<feature id="cucumber.eclipse.feature" version="1.0.0.202107150747" url="features/cucumber.eclipse.feature_1.0.0.202107150747/">
 		</feature>
 		<feature id="org.eclipse.mylyn.versions" version="1.13.0.v20160630-2022" url="features/org.eclipse.mylyn.versions_1.13.0.v20160630-2022/" plugin-identifier="org.eclipse.mylyn.versions.core">
 		</feature>
@@ -121,7 +123,11 @@
 		</feature>
 		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.0.v20160823-2221" url="features/org.eclipse.ecf.core.ssl.feature_1.1.0.v20160823-2221/">
 		</feature>
+		<feature id="org.testng.eclipse.maven.feature" version="6.9.13.201609291640" url="features/org.testng.eclipse.maven.feature_6.9.13.201609291640/">
+		</feature>
 		<feature id="org.eclipse.mylyn.hudson" version="1.13.0.v20160806-1446" url="features/org.eclipse.mylyn.hudson_1.13.0.v20160806-1446/" plugin-identifier="org.eclipse.mylyn.builds.core">
+		</feature>
+		<feature id="org.testng.eclipse" version="6.9.10.201512240000" url="features/org.testng.eclipse_6.9.10.201512240000/">
 		</feature>
 		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.13.2.v20160823-2221" url="features/org.eclipse.ecf.filetransfer.feature_3.13.2.v20160823-2221/">
 		</feature>
